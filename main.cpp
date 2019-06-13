@@ -15,3 +15,7 @@ int divFun(int a, int b){
     else
         return a/b;
 }
+int plus(int a,int b)
+{
+    return a+b;
+}
